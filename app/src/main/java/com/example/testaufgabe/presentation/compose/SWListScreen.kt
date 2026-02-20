@@ -1,4 +1,4 @@
-package com.example.testaufgabe.presentation.resource.compose
+package com.example.testaufgabe.presentation.compose
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column

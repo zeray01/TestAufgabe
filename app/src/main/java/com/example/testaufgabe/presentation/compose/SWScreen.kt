@@ -17,7 +17,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.testaufgabe.domain.model.SwapiResourceType
 import com.example.testaufgabe.presentation.navigation.drawerDestinations
-import com.example.testaufgabe.presentation.resource.compose.SWListScreen
 import kotlinx.coroutines.launch
 
 @Composable
